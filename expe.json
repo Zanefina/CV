@@ -1,0 +1,48 @@
+{
+    "education":[
+        {
+            "name": "Gymnasium Xhelal Hajda-Toni",
+            "place": "Rahovec,Kosovo",
+            "time": "2013-1016"
+        },
+        {
+            "name": "Yrkeshögskola Software Development .NET",
+            "place": "Varberg, Sweden",
+            "time": "2022-2024"
+        }
+    ],
+    "courses":[
+        {
+            "name": "Svenska för Invandrare(SFI)",
+            "time": "February-May 2019"
+        },
+        {
+            "name": "Svenska som andra språk(SAS Grund)",
+            "time": "August,2019-April,2020"
+        },
+        {
+            "name": "SAS1, SAS2, SAS3 (Svenska som andra språk-Gymnasie level)",
+            "time": "Juni-Oktober 2021"
+        },
+        {
+            "name": "Programmering 1",
+            "time": "Januray-February 2022"
+        },
+        {
+            "name": "Engelska 6",
+            "time": "February-Mars 2022"
+        },
+        {
+            "name": "Webbutveckling",
+            "time": "May-Juni 2022"
+        }
+    ],
+    "work": [
+        {
+            "name": "Stora Coop",
+            "place": "Varberg",
+            "time": "2021- "
+        }
+    ]
+    
+}
